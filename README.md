@@ -2,7 +2,11 @@
 
 ## Descripción
 
-    Corinsa Utils es una biblioteca de utilidades diseñada para facilitar el desarrollo de aplicaciones frontend en proyectos de Grupo Corinsa. Este paquete contiene una serie de funciones, componentes y estilos predefinidos que pueden ser utilizados en diversos proyectos para mejorar la productividad y la consistencia del desarrollo.
+    Corinsa Utils es una biblioteca de utilidades diseñada para facilitar 
+    el desarrollo de aplicaciones frontend en proyectos de Grupo Corinsa. 
+    Este paquete contiene una serie de funciones, componentes y estilos predefinidos 
+    que pueden ser utilizados en diversos proyectos para mejorar la productividad 
+    y la consistencia del desarrollo.
 
 ## Características
 
