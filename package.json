@@ -1,0 +1,23 @@
+{
+  "name": "corinsa-utils",
+  "version": "1.0.0",
+  "description": "Funciones de utilidad para el desarrollo de aplicaciones en Grupo Corinsa",
+  "main": "dist-node/index.js",
+  "browser":"dist-browser/index.js",
+  "scripts": {
+    "build-browser": "tsc src/index.ts --outDir dist-browser --module es2022 --target es2022",
+    "build-node": "tsc src/index.ts --outDir dist-node",
+    "build": "npm run build-browser && npm run build-node"
+  },
+  "keywords": ["Utilidades"],
+  "homepage": "https://github.com/Deybis/corinsa-utils",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Deybis/corinsa-utils"
+  },
+  "author": "Deybis Chávez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.4.5"
+  }
+}
