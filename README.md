@@ -21,5 +21,11 @@
 
 ## Utilizar la función de utilidad
 
-    const formattedPrice = formatCurrency(1000, 'USD');
-    console.log(formattedPrice); // "$1,000.00"
+    const filters = {
+        month:1,
+        year:2024
+    }
+    
+    const query = createUrl(filters)
+    const url = `https://corinsademo/api/clientes${query}` 
+    console.log(url); // "https://demo/api/clientes?month=1&year=2024"
