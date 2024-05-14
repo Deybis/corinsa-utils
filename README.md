@@ -17,7 +17,7 @@
 
 ## Uso
 
-    `import { formatCurrency } from 'corinsa-utils';`
+    `import { createUrl } from 'corinsa-utils';`
 
 ## Utilizar una función
 
