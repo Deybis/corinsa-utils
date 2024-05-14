@@ -6,18 +6,18 @@
 
 ## Características
 
-    -Funciones útiles para tareas comunes.
-    -Componentes reutilizables y personalizables.
-    -Estilos predefinidos y temas de diseño.
-    -Documentación detallada y ejemplos de uso.
+    - Funciones útiles para tareas comunes.
+    - Componentes reutilizables y personalizables.
+    - Estilos predefinidos y temas de diseño.
+    - Documentación detallada y ejemplos de uso.
 
 ## Instalación
 
-    `npm install corinsa-utils`
+    npm install corinsa-utils
 
 ## Uso
 
-    `import { createUrl } from 'corinsa-utils';`
+    import { createUrl } from 'corinsa-utils'
 
 ## Utilizar una función
 
