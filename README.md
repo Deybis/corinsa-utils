@@ -19,13 +19,13 @@
 
     `import { formatCurrency } from 'corinsa-utils';`
 
-## Utilizar la función de utilidad
+## Utilizar una función
 
     const filters = {
         month:1,
         year:2024
     }
-    
+
     const query = createUrl(filters)
     const url = `https://corinsademo/api/clientes${query}` 
     console.log(url); // "https://demo/api/clientes?month=1&year=2024"
