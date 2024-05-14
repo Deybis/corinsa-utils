@@ -15,7 +15,7 @@
 
     npm install corinsa-utils
 
-## Uso
+## Importar
 
     import { createUrl } from 'corinsa-utils'
 
