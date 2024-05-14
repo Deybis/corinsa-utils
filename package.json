@@ -1,6 +1,6 @@
 {
   "name": "corinsa-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Funciones de utilidad para el desarrollo de aplicaciones en Grupo Corinsa",
   "main": "dist-node/index.js",
   "browser":"dist-browser/index.js",
