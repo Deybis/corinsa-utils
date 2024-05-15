@@ -37,6 +37,6 @@ const filters = {
 }
 
 const query = createUrl(filters)
-const url = `https://corinsademo/api/clientes${query` 
+const url = `https://corinsademo/api/clientes${query}` 
 console.log(url); // "https://corinsademo/api/clientes?month=1&year=2024"
 ```
