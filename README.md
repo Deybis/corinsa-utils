@@ -1,5 +1,7 @@
 # Corinsa Utils
 
+[![npm version]
+
 ## Descripción
 
     `Corinsa Utils` es una biblioteca de utilidades diseñada para facilitar 
