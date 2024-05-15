@@ -1,6 +1,6 @@
 # Corinsa Utils
 
-[![npm version](https://www.npmjs.com/package/corinsa-utils)](https://www.npmjs.com/package/corinsa-utils)
+[![npm version](https://badge.fury.io/js/rxjs.svg)](https://www.npmjs.com/package/corinsa-utils)
 
 ## Descripción
 
