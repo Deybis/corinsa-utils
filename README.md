@@ -24,13 +24,13 @@ npm install corinsa-utils
 
 ## Importar
 
-```shell
+```ts
 import { createUrl } from 'corinsa-utils'
 ```
 
 ## Utilizar una función
 
-```shell
+```js
 const filters = {
     month:1,
     year:2024
